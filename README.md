@@ -16,4 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityacyan&show_icons=true&locale=en&layout=compact" alt="adityacyan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityacyan&show_icons=true&size_weight=0.5&count_weight=0.5&locale=en" alt="adityacyan" /></p>
+<p>&nbsp;<img src="https://github-readme-stats-6uliog88v-adityacyans-projects.vercel.app/api/top-langs?username=adityacyan&layout=compact&hide=HTML" />
+</p>
