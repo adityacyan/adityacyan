@@ -77,7 +77,7 @@
   - **Visualized attention** with UMAP/BERTviz for interpretability  
   - **Deployed Flask API** simulating real-time NLP inference
  
-  - **[Byteverse Discord Bot](https://github.com/adityacyan/byteverse-discordbot)**  
+- **[Byteverse Discord Bot](https://github.com/adityacyan/byteverse-discordbot)**  
   *Python | Discord.py | Flask | Uptime Robot | Git*  
   [GitHub Repo](https://github.com/adityacyan/byteverse-discordbot)  
   - Built for a college hackathon to automate Discord team channel creation  
