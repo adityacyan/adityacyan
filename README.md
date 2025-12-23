@@ -65,7 +65,7 @@
 
 ### 📌 Featured Projects
 
-- **[Intelligent Document Analyzer](https://github.com/adityacyan/Intelligent-Document-Analyzer)** *React | FastAPI | Gemini API | Azure Cognitive Services | FAISS* - Built a full-stack PDF analysis app with **semantic search** and AI-driven insights.
+- **[Intelligent Document Analyzer](https://github.com/adityacyan/adobeRound3)** *React | FastAPI | Gemini API | Azure Cognitive Services | FAISS* - Built a full-stack PDF analysis app with **semantic search** and AI-driven insights.
   - Developed a document processing pipeline using **PyPDF2** for text extraction and metadata preservation.
   - Implemented a semantic search engine with **FAISS vector database** and sentence transformers.
   - Engineered an AI insights system using **Gemini API** for generating takeaways and identifying contradictions.
