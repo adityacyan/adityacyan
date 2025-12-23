@@ -71,7 +71,8 @@
   - Engineered an AI insights system using **Gemini API** for generating takeaways and identifying contradictions.
   - Developed a **2-person podcast generation** feature with Azure Text-to-Speech.
 
-- **[Movie Recommendation App](https://adityacyan-movieapp.vercel.app)** *React | Tailwind CSS | TMDB API | Git* - Developed a scalable and responsive web app for movie discovery.
+- **[Movie Recommendation App](https://github.com/adityacyan/Movie-App)** *React | Tailwind CSS | TMDB API | Git* - Developed a scalable and responsive web app for movie discovery.
+  -**Deployment Link**(https://adityacyan-movieapp.vercel.app/) 
   - **Implemented debounced search input**, reducing redundant API calls by 70%.
   - **Built dynamic discovery features** including trending and genre-based filtering.
   - **Integrated a recommendation engine** using API chaining for real-world personalization.
