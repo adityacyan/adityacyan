@@ -11,7 +11,19 @@
   </a>
 </p>
 
+- [cite_start]🎓 **B.Tech in Computer Science** at National Institute of Technology Patna [cite: 4, 5]
+- [cite_start]🚀 **Web Lead** at Google Developer Groups (GDG) On Campus [cite: 46]
 - 🌱 I’m currently learning **Machine Learning**
+
+---
+
+### 🏆 Top Achievements & Stats
+
+- [cite_start]**Facebook Hacker Cup 2025:** Global Rank 1544 [cite: 39]
+- [cite_start]**Adobe India Hackathon:** Semi-Finalist (Top 100 out of 262,132 teams) [cite: 37]
+- [cite_start]**LeetCode:** Knight (Max Rating: 1847) [cite: 42]
+- [cite_start]**CodeChef:** 3★ (Max Rating: 1735) [cite: 40]
+- [cite_start]**Codeforces:** Pupil (Max Rating: 1338) [cite: 41]
 
 ---
 
@@ -33,9 +45,6 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
@@ -47,48 +56,36 @@
   </a>
 </p>
 
+---
+
+### 📌 Featured Projects
+
+- **[Intelligent Document Analyzer](https://github.com/adityacyan/Intelligent-Document-Analyzer)** *React | FastAPI | Gemini API | Azure Cognitive Services | [cite_start]FAISS* [cite: 14]  
+  - [cite_start]**Semi-Finalist Top 100** in Adobe India Hackathon [cite: 37]
+  - [cite_start]Built a full-stack PDF analysis app with **semantic search** and AI-driven insights [cite: 15]
+  - [cite_start]Implemented a **FAISS vector database** for contextual document retrieval [cite: 18]
+  - [cite_start]Developed a **2-person podcast generation** feature using Azure Text-to-Speech [cite: 20]
+
+- **[Movie Recommendation App](https://adityacyan-movieapp.vercel.app)** *React | Tailwind CSS | TMDB API | [cite_start]Git* [cite: 22]  
+  - [cite_start]Developed a scalable, responsive app for movie discovery via TMDB API [cite: 23, 24]
+  - [cite_start]**Implemented debounced search input**, reducing API calls by ~70% [cite: 26]
+  - [cite_start]**Built dynamic discovery features** using modular components and Tailwind transitions [cite: 27]
+  - [cite_start]**Integrated a recommendation engine** with chained API logic for personalization [cite: 28]
+
+- **[Emotion Recognition (DistilBERT)](https://github.com/adityacyan/distilbert)** *Python | PyTorch | Transformers | Flask* - Fine-tuned DistilBERT for end-to-end emotion classification.
+  - Visualized attention with UMAP/BERTviz for model interpretability.
+  - Deployed Flask API for real-time NLP inference.
 
 ---
 
-### 📌 Pinned Projects
+### 🌍 Open Source Contributions
 
-- **[Movie Recommendation App](https://adityacyan-movieapp.vercel.app)**  
-  *React | Tailwind CSS | TMDB API | Git*  
-  [GitHub Repo](https://github.com/adityacyan/Movie-App)  
-  - Developed a scalable, responsive app for movie discovery via TMDB API  
-  - **Implemented debounced search input**, reducing API calls by ~70%  
-  - **Built dynamic discovery features** using modular components and Tailwind transitions  
-  - **Integrated a recommendation engine** with chained API logic for personalization
-
-- **[Alpha Game System](https://github.com/adityacyan/Javagamesys/releases)**  
-  *Java | Swing | Java 2D | Java Sound API | Launch4j*  
-  [GitHub Repo](https://github.com/adityacyan/Javagamesys)  
-  - Created a retro-style Java game suite with a multi-game menu system  
-  - **Built Snake game** with grid logic and collision detection  
-  - **Designed modular Swing UI** with sounds and 8-bit style visuals  
-  - **Packaged with Launch4j**, improving performance and distribution
-
-- **[Emotion Recognition (DistilBERT)](https://distilbert.onrender.com)**  
-  *Python | PyTorch | Transformers | Flask | Google Colab*  
-  [GitHub Repo](https://github.com/adityacyan/distilbert)  
-  - Built an end-to-end emotion classification app using DistilBERT  
-  - **Preprocessed emotion datasets** with robust data splits  
-  - **Fine-tuned transformer model** with performance-tuned configs  
-  - **Visualized attention** with UMAP/BERTviz for interpretability  
-  - **Deployed Flask API** simulating real-time NLP inference
- 
-- **[Byteverse Discord Bot](https://github.com/adityacyan/byteverse-discordbot)**  
-  *Python | Discord.py | Flask | Uptime Robot | Git*  
-  [GitHub Repo](https://github.com/adityacyan/byteverse-discordbot)  
-  - Built for a college hackathon to automate Discord team channel creation  
-  - **Automated creation of team-specific text/voice channels** via Discord API  
-  - **Implemented Flask server** to expose bot controls and webhook endpoints  
-  - **Added auto-ping mechanism** to keep free-tier server alive (Uptime Robot integration)  
-  - **Optimized deployment for minimal hosting cost**, maintaining 24/7 availability
+- **[Improve YouTube! (code-charity)[cite_start]](https://github.com/code-charity/youtube)** [cite: 7, 8]
+  - [cite_start]Contributed to a project with **400,000+ Active Users** [cite: 8, 10]
+  - [cite_start]Developed **Undistracted Mode** to enhance user focus by hiding distracting UI elements [cite: 10]
+  - [cite_start]Refactored grid layout logic to improve code maintainability [cite: 11]
 
 ---
-
-
 
 <p>
   <img align="left" src="https://github-readme-stats-adityacyans-projects.vercel.app/api/top-langs?username=adityacyan&layout=compact&hide=HTML" alt="adityacyan" />
