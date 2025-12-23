@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p align="center">
+  <a href="https://adityacyan.vercel.app" target="_blank"><b>🌐 Portfolio</b></a>
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adityacyan&label=Profile%20views&color=0e75b6&style=flat" alt="adityacyan" />
 </p>
@@ -11,19 +15,20 @@
   </a>
 </p>
 
-- [cite_start]🎓 **B.Tech in Computer Science** at National Institute of Technology Patna [cite: 4, 5]
-- [cite_start]🚀 **Web Lead** at Google Developer Groups (GDG) On Campus [cite: 46]
+- 🎓 **B.Tech Computer Science and Engineering** at National Institute Of Technology Patna
+- 🚀 **Web Lead** at Google Developer Groups On Campus NITP
 - 🌱 I’m currently learning **Machine Learning**
 
 ---
 
 ### 🏆 Top Achievements & Stats
 
-- [cite_start]**Facebook Hacker Cup 2025:** Global Rank 1544 [cite: 39]
-- [cite_start]**Adobe India Hackathon:** Semi-Finalist (Top 100 out of 262,132 teams) [cite: 37]
-- [cite_start]**LeetCode:** Knight (Max Rating: 1847) [cite: 42]
-- [cite_start]**CodeChef:** 3★ (Max Rating: 1735) [cite: 40]
-- [cite_start]**Codeforces:** Pupil (Max Rating: 1338) [cite: 41]
+- **Facebook Hacker Cup 2025:** Global Rank 1544
+- **Adobe India Hackathon:** Semi-Finalist (Top 100 of 2,62,132) for Intelligent Document Analyzer
+- **LeetCode:** Knight (Max Rating: 1847)
+- **CodeChef:** 3★ (Max Rating: 1735)
+- **Codeforces:** Pupil (Max Rating: 1338)
+- **DroneX IIT Patna:** Selected out of 200 teams and built a mini drone from scratch
 
 ---
 
@@ -60,30 +65,28 @@
 
 ### 📌 Featured Projects
 
-- **[Intelligent Document Analyzer](https://github.com/adityacyan/Intelligent-Document-Analyzer)** *React | FastAPI | Gemini API | Azure Cognitive Services | [cite_start]FAISS* [cite: 14]  
-  - [cite_start]**Semi-Finalist Top 100** in Adobe India Hackathon [cite: 37]
-  - [cite_start]Built a full-stack PDF analysis app with **semantic search** and AI-driven insights [cite: 15]
-  - [cite_start]Implemented a **FAISS vector database** for contextual document retrieval [cite: 18]
-  - [cite_start]Developed a **2-person podcast generation** feature using Azure Text-to-Speech [cite: 20]
+- **[Intelligent Document Analyzer](https://github.com/adityacyan/Intelligent-Document-Analyzer)** *React | FastAPI | Gemini API | Azure Cognitive Services | FAISS* - Built a full-stack PDF analysis app with **semantic search** and AI-driven insights.
+  - Developed a document processing pipeline using **PyPDF2** for text extraction and metadata preservation.
+  - Implemented a semantic search engine with **FAISS vector database** and sentence transformers.
+  - Engineered an AI insights system using **Gemini API** for generating takeaways and identifying contradictions.
+  - Developed a **2-person podcast generation** feature with Azure Text-to-Speech.
 
-- **[Movie Recommendation App](https://adityacyan-movieapp.vercel.app)** *React | Tailwind CSS | TMDB API | [cite_start]Git* [cite: 22]  
-  - [cite_start]Developed a scalable, responsive app for movie discovery via TMDB API [cite: 23, 24]
-  - [cite_start]**Implemented debounced search input**, reducing API calls by ~70% [cite: 26]
-  - [cite_start]**Built dynamic discovery features** using modular components and Tailwind transitions [cite: 27]
-  - [cite_start]**Integrated a recommendation engine** with chained API logic for personalization [cite: 28]
+- **[Movie Recommendation App](https://adityacyan-movieapp.vercel.app)** *React | Tailwind CSS | TMDB API | Git* - Developed a scalable and responsive web app for movie discovery.
+  - **Implemented debounced search input**, reducing redundant API calls by 70%.
+  - **Built dynamic discovery features** including trending and genre-based filtering.
+  - **Integrated a recommendation engine** using API chaining for real-world personalization.
 
-- **[Emotion Recognition (DistilBERT)](https://github.com/adityacyan/distilbert)** *Python | PyTorch | Transformers | Flask* - Fine-tuned DistilBERT for end-to-end emotion classification.
+- **[Emotion Recognition (DistilBERT)](https://github.com/adityacyan/distilbert)** *Python | PyTorch | Transformers | Flask* - Built an end-to-end emotion classification app using fine-tuned **DistilBERT**.
   - Visualized attention with UMAP/BERTviz for model interpretability.
-  - Deployed Flask API for real-time NLP inference.
+  - Deployed a Flask API for simulating real-time NLP inference.
 
 ---
 
 ### 🌍 Open Source Contributions
 
-- **[Improve YouTube! (code-charity)[cite_start]](https://github.com/code-charity/youtube)** [cite: 7, 8]
-  - [cite_start]Contributed to a project with **400,000+ Active Users** [cite: 8, 10]
-  - [cite_start]Developed **Undistracted Mode** to enhance user focus by hiding distracting UI elements [cite: 10]
-  - [cite_start]Refactored grid layout logic to improve code maintainability [cite: 11]
+- **[Improve YouTube! (code-charity)](https://github.com/code-charity/youtube)** - Contributed to an open-source project with **400,000+ Active Users**.
+  - Developed **Undistracted Mode**, enhancing user focus by hiding distracting UI elements.
+  - Refactored grid layout logic, simplifying code and improving maintainability.
 
 ---
 
